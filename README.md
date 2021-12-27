@@ -240,7 +240,7 @@ Next, run the following command:
 ```sh
 graph auth https://api.thegraph.com/deploy/ <ACCESS_TOKEN>
 
-davidmac$ graph deploy --product hosted-service <GITHUB_USER/SUBGRAPH_NAME>
+graph deploy --product hosted-service <GITHUB_USER/SUBGRAPH_NAME>
 ```
 
 Once the subgraph is deployed, you should see it show up in your dashboard:
